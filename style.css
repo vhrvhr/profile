@@ -58,6 +58,7 @@ body {
 }
 .text-center {
     text-align: center;
+    padding-left: 0px;
 }
 div {
   border-top: 1px solid ;
